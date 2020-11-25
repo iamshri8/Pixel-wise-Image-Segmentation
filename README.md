@@ -1,6 +1,6 @@
-## Semantic Segmentation using U-Net architecture in Convolution Neural Networks. ##
+## Pixelwise Image Segmentation using CNN and U-Net architecture. ##
 
-The goal of semantic segmentation is to label every pixel in a given image to a corresponding class. Because the task involves pixel prediction, semantic segmentation is also called dense prediction.
+The goal of pixel-wise image segmentation is to classify each pixel in a given image. 
 
 DATASET: The dataset used for this project is called Cityscapes dataset. The dataset is downloaded from the official website. ​https://www.cityscapes-dataset.com/​. It focuses on semantic understanding of urban street scenes. The images are the result of extraction of thousands of frames from a moving vehicle during different months, covering spring, fall and summer in 50 different cities majorly in Germany and also its neighbouring countries.
 
